@@ -1,0 +1,11 @@
+target/
+
+### STS ###
+
+### NetBeans ###
+/dist/
+/nbdist/
+build/
+
+### VS Code ###
+.vscode/
